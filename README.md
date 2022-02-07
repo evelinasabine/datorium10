@@ -1,2 +1,11 @@
-# datorium10
-8.kl. demo krātuve
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+
+<a href="otra_lapa.html">Click Here!</a>
+  
+</body>
+</html>
